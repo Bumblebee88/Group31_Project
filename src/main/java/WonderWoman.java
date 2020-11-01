@@ -1,4 +1,6 @@
 public class WonderWoman {
-  
-  What power does she have?
+  public static void main(String[] args) {
+
+    String s = "  What power does she have?";
+  }
 }
