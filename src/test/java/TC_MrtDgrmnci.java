@@ -12,7 +12,8 @@ public class TC_MrtDgrmnci {
         System.out.println(mrt);
 
         //done
-
+// what about doing this    // System.out.println(Arrays.toString(mrt));
+        
 
     }
 
